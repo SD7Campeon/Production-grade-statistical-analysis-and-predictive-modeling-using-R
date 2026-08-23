@@ -3,7 +3,7 @@ Production-grade R pipeline implementing rigorous statistical diagnostics, hypot
 
 [![R Version](https://img.shields.io/badge/R-%3E%3D_4.1-blue.svg)](https://www.r-project.org/)
 [![Architecture](https://img.shields.io/badge/Architecture-Idempotent_Preprocessing-orange.svg)]()
-[![Corpus](https://img.shields.io/badge/Corpus-Kaggle_Titanic-green.svg)]()
+[![Corpus](https://img.shields.io/badge/Corpus-IBM_Telco_Churn-green.svg)]()
 
 
 # Telco Customer Churn: Stochastic Survival Analytics, Hypothesis-Driven Exploratory Diagnostics, and Cross-Validated Generalized Linear Classifiers
